@@ -8,6 +8,8 @@ One line, written to `/output/entry.txt` by `main.py`.
 
 > Sniffr is a premium app that lets your fridge rate your leftovers' emotional readiness to be eaten, then charges $4.99 a month to text you that the lasagna has chosen peace.
 
+The pitch is 173 characters long (gate: 1–240 characters).
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
